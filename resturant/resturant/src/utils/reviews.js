@@ -1,0 +1,51 @@
+export const reviews = [
+    {
+      id: 1,
+      name: "John Doe",
+      image: "https://randomuser.me/api/portraits/men/1.jpg",
+      rating: 4.5,
+      review: "Great service and delicious food! The ambiance was fantastic and I had a wonderful time.",
+      date: "2024-09-10",
+    },
+    {
+      id: 2,
+      name: "Jane Smith",
+      image: "https://randomuser.me/api/portraits/women/2.jpg",
+      rating: 5.0,
+      review: "Absolutely loved the experience! The staff was friendly and the dishes were exquisite.",
+      date: "2024-09-08",
+    },
+    {
+      id: 3,
+      name: "Emily Johnson",
+      image: "https://randomuser.me/api/portraits/women/3.jpg",
+      rating: 3.8,
+      review: "Good food, but the service was a bit slow. The atmosphere made up for it, though.",
+      date: "2024-09-05",
+    },
+    {
+      id: 4,
+      name: "Michael Brown",
+      image: "https://randomuser.me/api/portraits/men/4.jpg",
+      rating: 4.0,
+      review: "Nice place with great food options. The desserts were the highlight of our visit.",
+      date: "2024-09-03",
+    },
+    {
+      id: 5,
+      name: "Sarah Davis",
+      image: "https://randomuser.me/api/portraits/women/5.jpg",
+      rating: 2.5,
+      review: "The food was okay, but I found it a bit overpriced for what was offered.",
+      date: "2024-08-30",
+    },
+    {
+      id: 6,
+      name: "David Wilson",
+      image: "https://randomuser.me/api/portraits/men/6.jpg",
+      rating: 4.8,
+      review: "Fantastic experience! The chef's specials are a must-try. Will definitely come back.",
+      date: "2024-08-25",
+    },
+  ];
+  

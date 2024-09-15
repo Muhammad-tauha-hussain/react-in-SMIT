@@ -1,0 +1,19 @@
+/* .blog-style{
+    display: flex;
+    flex-wrap: wrap;
+    border: 1px solid red;
+} */
+.blog-style>div>div{
+    width: 38%;
+}
+
+
+.reviews-style img{
+    border-radius: 100%;
+    width: 170px;
+    margin: auto;
+}
+.menu-style img{
+    width: 100px;
+    margin: auto;
+}
