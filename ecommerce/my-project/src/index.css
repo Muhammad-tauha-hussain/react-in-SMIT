@@ -10,6 +10,6 @@ body{
     background-color: var(--bg);
     font-family: "Poppins", system-ui;
     overflow-x: hidden;
-    transition: ;
+    transition: all 0.3ms ease;
 
 }
