@@ -4,8 +4,10 @@ import before from '../../assets/before.png';
 import after from '../../assets/after.png';
 import ReactCompareImage from 'react-compare-image';
 
+
 const Virtual = () => {
   
+
   return (
     <div className="px-5 py-10">
       <div className="grid grid-cols-1 md:grid-cols-2 justify-between mb-14 w-full md:w-[80%] gap-8 m-auto">
@@ -18,7 +20,7 @@ const Virtual = () => {
         </div>
 
         {/* Right Section */}
-        <div className="w-full" data-aos="flip-right">
+        <div className="w-full">
           <ReactCompareImage leftImage={before} rightImage={after} />
         </div>
       </div>

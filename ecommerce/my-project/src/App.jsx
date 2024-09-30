@@ -7,6 +7,7 @@ import Virtual from './components/virtual/Virtual'
 import Products from './components/products/Products'
 import Testimonials from './components/testimonials/Testimonials'
 import Footer from './components/footer/Footer'
+import Modal from './components/modal/Modal'
 
 function App() {
 
@@ -19,6 +20,7 @@ function App() {
     <Products />
     <Testimonials />
     <Footer />
+    <Modal/>
     </>
   )
 }
